@@ -165,12 +165,3 @@ function getRandomNumber() {
   return Math.floor(Math.random() * colors.length);
 }
 
-
-
-// CSS Color Names
-// Compiled by @bobspace.
-//
-// A javascript array containing all of the color names listed in the CSS Spec.
-// The full list can be found here: https://www.w3schools.com/cssref/css_colors.asp
-// Use it as you please, 'cuz you can't, like, own a color, man.
-
